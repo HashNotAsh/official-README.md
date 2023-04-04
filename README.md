@@ -10,12 +10,21 @@
 
 - 👯 I’m looking to collaborate on **PROJECTS I CAN CHEAT USING STACKOVERFLOW**
 
-- 📫 How to reach me: **nelsongj0@gmail.com (NOT MY REAL NAME BTW I MADE THIS WITH AN RANDOM GMAIL GENERATOR IM NOT JOKING I HATE IT NOW)**
+- 📫 How to reach me: **MY DISCORD BELOW**
 
 - ⚡ What I like to do: **I like MESSING WITH MY FRIENDS ALL DAY**
 
 - ⚡ Fun fact: **I HATE THIS ALREADY IM NOT FINISHING THIS**
 
 - ⚡ Fun fact **2: i like suffering everyday**<img src="https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif" width="60">
+
+<br>
+<div align="center">
+<h3><b>😄 Connect With Me</b></h3>
+</div>
+<p align="center">
+<a href="https://www.youtube.com/@lywoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+<a href="https://discord.gg/dVXUWBzNMw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
+</p>
 
 # **HELP ME PLEASE**
